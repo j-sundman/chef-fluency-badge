@@ -6,3 +6,6 @@
 #
 # All rights reserved - Do Not Redistribute
 #
+joelio 'httpd' do
+  homepage '<h1>Welcome to the Joel Example Co. website!</h1>'
+end
